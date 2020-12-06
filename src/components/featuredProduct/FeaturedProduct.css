@@ -1,0 +1,6 @@
+.featured {
+  width: 500px;
+  height: 550px;
+  object-fit: cover;
+  margin-top: 20px;
+}
